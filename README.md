@@ -2,6 +2,7 @@
 
 ## Step 1: Use input image to find similar images from Google 
 `lens-image-search.ipynb` 
+
 Given a folder of input images that you intend to search, run this script to download all the similar images in the first page of searched result.
 
 ## Step 2: Calculate the similarity score between the input image and google search returned images 
